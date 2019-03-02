@@ -26,9 +26,13 @@ Keep in mind that **you should not get addons other than these**. If you have to
 
 That said, get these addons!
 
-- UBlock Origin | [Firefox](https://addons.mozilla.org/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Edge](https://www.microsoft.com/store/p/app/9nblggh444l4) | [Safari](https://github.com/el1t/uBlock-Safari#ublock-originfor-safari) - This is the best adblocker you can use. **Note that it is NOT UBlock (which comes up on the first page of Google search).** Use the links I provided to install it for your respective browser to ensure that you don't get the wrong one.
+- EASY: UBlock Origin | [Firefox](https://addons.mozilla.org/addon/ublock-origin/) | [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Edge](https://www.microsoft.com/store/p/app/9nblggh444l4) | [Safari](https://github.com/el1t/uBlock-Safari#ublock-originfor-safari) - This is the best adblocker you can use. **Note that it is NOT UBlock (which comes up on the first page of Google search).** Use the links I provided to install it for your respective browser to ensure that you don't get the wrong one.
   - Why use an adblocker? Ads are the reason you get tracked. If you want to support content creators, try donating to their patreon/liberapay or similar.
-- That's basically all you need... Anything else is extra.
+
+That's basically all you *need*, the rest are just small extras.
+
+- MODERATE: Multi-Account Containers | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - Use one container for each service that tracks you. You might not be able to eliminate the service entirely, but at the very least you can limit them.
+  - Other ideas: Use one container for work, one container for personal/general browsing, and one for social media.
 
 **UNINSTALL THE FOLLOWING:**
 
@@ -37,7 +41,7 @@ That said, get these addons!
 - AdBlock - Use UBlock Origin instead, see above.
 - Grammarly - It sends everything you type to them, and has been vulnerable in the past. Do not use.
 
-## Step: Stop Using Popular Services
+## Step: Stop Using Services That Track You
 
 **If you're not using "end to end encrypted" services, they can see all the data you send to them.** Just "encrypted" is not enough, be sure to look for the "end to end encrypted" or "E2E" wording, or the service might be using your information.
 
@@ -45,6 +49,7 @@ This specific step is fully covered by other excellent websites, so in the spiri
 
 - [Prism Break](https://prism-break.org/en/) - A list of alternatives to services that track you. Click on what type of computer/phone you have and see what you can replace.
 - [PrivacyTools.io](https://www.privacytools.io) - "knowledge and tools to protect your privacy against global mass surveillance"
+- [Switching.social](https://switching.social) - Specifically good for switching social networking websites, but they list other alternatives as well.
 - [Framasoft](https://degooglisons-internet.org) - A company that makes open source software. They list their own software and also competitor's software, as long as it's still free.
 
 Note that some of these will be hard to do, but others should be relatively easy (like notes apps, or calendar apps, since you can usually move your data out of those and into the replacement.)
@@ -68,6 +73,7 @@ That said, here's an interesting thought experiment. **If your friends aren't yo
 If you feel the need to talk about yourself and maintain social media, that's fine too. Just be sure to use these platforms instead of Twitter / Facebook / Instagram / Snapchat / etc.
 
 - [Mastodon](https://joinmastodon.org/) - A microblogging site (think twitter, tumblr). The website I linked explains everything else. This is the most popular and easiest to use "truly free" social media.
+- There are more that you can find at [switching.social](https://switching.social), but note that not all of them explain everything as well as Mastodon does. If you're new to federated social networks I'd highly recommend watching and reading about Mastodon *first*, as it has the best-explained resources in general.
 
 ## Step: Switch your Email Service
 
@@ -79,7 +85,10 @@ That said, it's not all bad news. When you move off GMail, you can get custom em
 
 Here are some services that I can recommend:
 
-- [FastMail](https://fastmail.com/) - I use this, but as it's based in [Australia](https://www.youtube.com/watch?v=eW-OMR-iWOE), I'm not so sure anymore. Maybe hold off on signing up until I get something better listed here...
+- [Tutanota](https://tutanota.com/) - You can't connect an email client to this! If you only check your email online, this is fine, but know that you won't be able to use Outlook, Thunderbird, Apple Mail, etc. It's relatively cheap at 12 EUR / year, and there is a limited free tier.
+- [Protonmail](https://protonmail.com) - Although you can connect an email client to this, it's somewhat difficult and buggy right now. I wouldn't count on it working, but the option is there for Mac, Windows, or Linux. It's slightly more expensive at 48 EUR / year, but there is a limited free tier.
+- [FastMail](https://fastmail.com/) - I use this, but as it's based in [Australia](https://www.youtube.com/watch?v=eW-OMR-iWOE) and not end-end encrypted, I'm not so sure anymore. Maybe hold off on signing up...
+- And of course, check out the "replacement" websites under the "Stop Using Websites That Track You" section. Some of them have good lists of email providers.
 
 ## Step: Change Your Phone
 
