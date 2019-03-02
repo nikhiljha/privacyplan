@@ -1,4 +1,6 @@
 _site
+*.swp
+*.pyc
 .sass-cache
 .jekyll-metadata
 .DS_Store
